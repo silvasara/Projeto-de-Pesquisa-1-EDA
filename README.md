@@ -1,3 +1,3 @@
-# Gerenciamento de memória em sistemas operacionais
+# Memory management on operating systems
 
-Projeto da disciplina de Estruturas de Dados e Algoritmos voltado a tentativa de implementação de formas de gerenciamento de memória em um Sistema Operacional utilizando-se estruturas de dados básicas.
+Project of the discipline of Data Structures and Algorithms that aims to simulate memory management in an Operating System using basic data structures.
